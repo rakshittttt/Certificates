@@ -23,24 +23,17 @@ This repository contains certificates from online courses, workshops, bootcamps,
 
 Certificates obtained from various reputable platforms:
 
-- **Coursera** - University partnerships and professional certificates
-- **edX** - Academic courses from top universities
-- **Udemy** - Practical, hands-on courses
-- **Pluralsight** - Technology skill development
-- **LinkedIn Learning** - Professional development
 - **FreeCodeCamp** - Open-source coding bootcamp
-- **Codecademy** - Interactive programming courses
-- **AWS Training** - Cloud computing certifications
-- **Google Developers** - Google technology certifications
+- **Kaggle** - Interactive programming courses
+- **HCL Guvi** - Various open-source courses
+- **Oneroadmap** - Certificates based on tests
 
 ## 📊 Skills Overview
 
 ### Technical Skills Acquired:
 - **Programming**: Multiple languages with focus on clean, efficient code
-- **Web Development**: Full-stack development capabilities
-- **Data Science**: Data analysis, machine learning, and visualization
-- **Cloud Computing**: Scalable application deployment and management
-- **DevOps**: Automation, containerization, and deployment strategies
+- **Front-end Development**: HTML,CSS,JavaScript
+- **Data Science**: Data analysis and visualizations
 
 ### Soft Skills Developed:
 - Problem-solving and critical thinking
@@ -48,12 +41,6 @@ Certificates obtained from various reputable platforms:
 - Continuous learning mindset
 - Technical communication
 
-## 🚀 How to Use This Repository
-
-1. **Browse by Category**: Navigate through folders to find certificates in specific domains
-2. **View Certificates**: Click on certificate images or PDFs to view details
-3. **Verify Authenticity**: Most certificates include verification links or IDs
-4. **Contact**: Feel free to reach out for discussions about any of these topics
 
 ## 🔗 Verification
 
@@ -66,21 +53,14 @@ This repository is actively maintained and updated as I continue my learning jou
 ## 🤝 Connect With Me
 
 - **GitHub**: [rakshittttt](https://github.com/rakshittttt)
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
-- **Portfolio**: [Your Portfolio Website]
+- **LinkedIn**: [Rakshit Rana](www.linkedin.com/in/rakshit-rana-3baba0280)
+- **Email**: [Mail](rakshitrana412@gmail.com)
+- **Portfolio**: [Portfolio](https://personal-portfolio-weld-alpha.vercel.app/)
 
-## 📝 Notes
-
-- All certificates are organized chronologically within their respective categories
-- File naming convention: `[Platform]_[Course-Name]_[Date].pdf`
-- Certificates are stored in high-resolution format for better readability
 
 ---
 
-**Last Updated**: [Current Date]
-
-**Total Certificates**: [Number of certificates]
+**Last Updated**: 09-09-2025
 
 > *"Learning never exhausts the mind."* - Leonardo da Vinci
 
