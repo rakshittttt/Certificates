@@ -40,6 +40,7 @@ Certificates obtained from various reputable platforms:
 - Project management and planning
 - Continuous learning mindset
 - Technical communication
+- Represented various countries at Model United Nation (MUNs)
 
 
 ## 🔗 Verification
