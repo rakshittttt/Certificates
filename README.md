@@ -12,7 +12,7 @@ This repository contains certificates from online courses, workshops, bootcamps,
 - **Frontend**: HTML5, CSS3
 
 ### Data Science & Analytics
-- **Data Analysis**: Pandas, Excel,SQL
+- **Data Analysis**: Pandas, Excel, SQL
 
 ### Hackathons
 - WCHL- Qualified for national round with "Emergency Pay"
@@ -61,7 +61,7 @@ This repository is actively maintained and updated as I continue my learning jou
 
 ---
 
-**Last Updated**: 22-11-2025
+**Last Updated**: 23-11-2025
 
 > *"Learning never exhausts the mind."* - Leonardo da Vinci
 
