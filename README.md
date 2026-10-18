@@ -54,7 +54,7 @@ This repository is actively maintained and updated as I continue my learning jou
 ## 🤝 Connect With Me
 
 - **GitHub**: [rakshittttt](https://github.com/rakshittttt)
-- **LinkedIn**: [Rakshit Rana](www.linkedin.com/in/rakshit-rana-3baba0280)
+- **LinkedIn**: [Rakshit Rana]([www.linkedin.com/in/rakshit-rana-3baba0280](https://www.linkedin.com/in/rakshit-rana-3baba0280))
 - **Email**: [Mail](rakshitrana412@gmail.com)
 - **Portfolio**: [Portfolio](https://personal-portfolio-weld-alpha.vercel.app/)
 
